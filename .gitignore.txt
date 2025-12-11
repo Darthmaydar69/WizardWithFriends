@@ -1,0 +1,31 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Visual Studio files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Build artifacts
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+*.manifest
+
+# OS junk
+.DS_Store
+Thumbs.db
